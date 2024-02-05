@@ -1,1 +1,2 @@
 Hi this is my git notes.
+take input from user and add two inputs
